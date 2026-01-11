@@ -29,4 +29,4 @@ A query final extrai a base necessária para gerar um dashboard com os seguintes
 
 ### Visualização
 
-![Dashboard com o Ranking de Países, Criação de Contas e Dinâmica de Envio de E-mails](images/final_dashboard_metrics.png.png)
+![Dashboard com o Ranking de Países, Criação de Contas e Dinâmica de Envio de E-mails](sql/results/final_dashboard_metrics.png.png)
